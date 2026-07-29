@@ -54,7 +54,7 @@ This project demonstrates the integration of embedded systems, sensor monitoring
 ## Repository Structure
 
 ```text
-arduino-gsm-gas-leakage-detector/
+Design-and-Development-of-a-Gas-Leakage-Detector-System-using-Arduino-Uno-and-a-GSM-Module/
 │
 ├── code/
 │   ├── Arduino_GSM_Gas_Leakage_Detector.ino
