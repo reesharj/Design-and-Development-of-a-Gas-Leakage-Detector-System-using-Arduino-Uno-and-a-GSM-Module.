@@ -1,6 +1,6 @@
 # Gas Leakage Detector using Arduino Uno and GSM Module
 
-An Arduino Uno-based gas leakage detection system developed as an individual Diploma Final Year Project. The system continuously monitors gas concentration and automatically activates an exhaust fan, sounds a buzzer alarm, and sends an SMS notification via a GSM module when a gas leak is detected.
+An Arduino Uno-based gas leakage detection system developed as an individual Diploma Final Year Project. The system continuously monitors gas level and automatically activates an exhaust fan, sounds a buzzer alarm, and sends an SMS notification via a GSM module when a gas leak is detected.
 
 ## Overview
 
