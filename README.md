@@ -117,6 +117,6 @@ Example:
 
 Individual Diploma Final Year Project
 
-Diploma in Computer Electronics Engineering
+Diploma in Computer Electronics Engineering (DTK)
 
 Politeknik Merlimau Melaka (PMM)
